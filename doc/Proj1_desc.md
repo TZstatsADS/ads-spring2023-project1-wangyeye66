@@ -57,7 +57,7 @@ The root README.md should contain your name and an abstract of your findings.
 
 ### Useful resources
 
-##### R pakcages
+##### R packages
 * R [tidyverse](https://www.tidyverse.org/) packages
 * R [DT](http://www.htmlwidgets.org/showcase_datatables.html) package
 * R [tibble](https://cran.r-project.org/web/packages/tibble/vignettes/tibble.html)
