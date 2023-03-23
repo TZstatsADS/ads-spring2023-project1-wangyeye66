@@ -2,7 +2,7 @@
 ## Spring 2023
 ## Project 1: A "data story" on the history of philosophy
 
-<img src="figs/100126-the-glass.jpeg" width="500">
+![cover](/Users/wanghan/Documents/ads-spring2023-project1-wangyeye66/figs/cover.jpg)
 
 ### [Project Description](doc/)
 This is the first and only *individual* (as opposed to *team*) project this semester. 
